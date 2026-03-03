@@ -1,6 +1,6 @@
 - Final year Software Engineering student | Backend & ML Enthusiast
 - Building practical systems, exploring machine learning in healthcare, and aiming to contribute to scalable enterprise solutions in global tech companies.
-- I enjoy turning complex requirements into structured, working systems
+- I enjoy turning complex business requirements into structured, production-ready systems.
 - 😄 Pronouns: she/her
 
 <!---
