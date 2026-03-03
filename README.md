@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Adrija-16
-- 👀 I’m interested in different application of AIML
-- 🌱 I’m currently learning Python and Web Development
+- Final year Software Engineering student | Backend & ML Enthusiast
+- Building practical systems, exploring machine learning in healthcare, and aiming to contribute to scalable enterprise solutions in global tech companies.
+- I enjoy turning complex requirements into structured, working systems
 - 😄 Pronouns: she/her
 
 <!---
